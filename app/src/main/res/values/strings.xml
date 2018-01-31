@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchGitHubLibrary</string>
+    <string name="Error_Message">ERROR_FAILED TO SEARCH THE QUERY ON GITHUB</string>
+</resources>
